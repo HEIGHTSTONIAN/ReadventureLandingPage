@@ -1,7 +1,5 @@
 # ReadventureLandingPage
 
-![Readventure app]
-
 Readventure is a children's gaming app that helps children learn to become better readers.
 
 # Materialize 
